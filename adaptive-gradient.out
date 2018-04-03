@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{ Understanding Deep Learning Requires Rethinking Generalization }{}% 1
+\BOOKMARK [1][-]{section.2}{Generalization in Over-Parameterized Settings}{}% 2
+\BOOKMARK [1][-]{section.3}{Gradient Descent!}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{SGD}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Momentum}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Adaptive Gradient Methods}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Newton's Method}{subsection.3.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.3.2}{AdaGrad \(by Duchi, Hazan, and Singer, 2011\)}{subsection.3.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.3.3}{RMSProp \(by Hinton, unpublished\)}{subsection.3.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.3.4}{ADAM \(by Kingma and Ba, 2014\)}{subsection.3.3}% 10
+\BOOKMARK [1][-]{section.4}{Simple Setting for Analysis: Gradient Descent for Linear Regression}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Calculating the Gradient}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Non-adaptive methods}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Adaptive methods}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.4}{Adaptivity Can Overfit}{section.4}% 15
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Problem Setting}{subsection.4.4}% 16
+\BOOKMARK [3][-]{subsubsection.4.4.2}{SGD Solution}{subsection.4.4}% 17
+\BOOKMARK [3][-]{subsubsection.4.4.3}{AdaGrad Solution}{subsection.4.4}% 18
+\BOOKMARK [1][-]{section.5}{Empirical Investigations}{}% 19
+\BOOKMARK [2][-]{subsection.5.1}{Methodology}{section.5}% 20
+\BOOKMARK [3][-]{subsubsection.5.1.1}{Learning Rate Tuning}{subsection.5.1}% 21
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Training Objective and Models}{subsection.5.1}% 22
+\BOOKMARK [1][-]{section.6}{Take-Aways}{}% 23
